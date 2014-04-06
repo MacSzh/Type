@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
  * Uesr : MacSzh2013
  * Date : 2014/4/6
  * Time : 22:16
- * Description :程序入口  测试完成任务时返回值
+ * Description :程序入口  测试完成任务时返回值 不要忘记使用executorService.submit调用
  */
 public class CallableDemo{
     public static void main(String[] args) {
